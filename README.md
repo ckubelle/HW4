@@ -132,6 +132,6 @@ async function enableWikiSupport(owner,repo)
 ## Proof that code is working as intended 
 ![test](https://github.com/ckubelle/HW4/blob/main/PassedTests.PNG)
 
-## REST Server Portion
-[![Screencast](https://user-images.githubusercontent.com/44238558/112762161-434aad80-8fcc-11eb-9e72-47e77f4f241b.png)](http://www.youtube.com/watch?v=--b-9HrKK6w)
+## REST Server Portion Video:
+[![Screencast](https://user-images.githubusercontent.com/44238558/112762161-434aad80-8fcc-11eb-9e72-47e77f4f241b.png)](https://github.com/ckubelle/HW4/blob/main/Screencast.mp4)
 
